@@ -1,8 +1,3 @@
-Here’s a professional and visually enhanced `README.md` file for your project **EduBook – Student-Teacher Booking System** with symbols, highlights, logo references, and clear instructions, optimized for a GitHub push:
-
----
-
-```markdown
 # 📘 EduBook – Student-Teacher Booking System
 
 ![EduBook Logo](https://i.ibb.co/BHs0mHtc/3d-avif.png)
@@ -13,8 +8,7 @@ A fully responsive, user-friendly appointment booking platform that streamlines 
 
 ## 🚀 Live Preview
 
-> 💻 _Coming Soon_ – Deploy your app on **GitHub Pages**, **Vercel**, or **Netlify** for demo purposes.
-
+> 💻– Deploy your app on **GitHub Pages**, **Vercel**
 ---
 
 ## 🧠 Features at a Glance
@@ -50,9 +44,8 @@ A fully responsive, user-friendly appointment booking platform that streamlines 
 
 | Home Page | Teachers List | Booking Modal | Profile Page |
 |----------|----------------|----------------|---------------|
-| ![Hero](https://i.ibb.co/BHs0mHtc/3d-avif.png) | ![Teachers](https://i.ibb.co/Gmx6FWC/1746476696746.jpg) | ![Modal](https://i.ibb.co/5X5gyTmd/1741015986886.jpg) | ![Profile](https://i.ibb.co/Kz0X49qQ/1000075459-01.jpg) |
+| ![Hero](https://github.com/user-attachments/assets/91d845dd-4d86-46c6-880b-2187db6c26ba)| ![Teachers](https://github.com/user-attachments/assets/a2b91074-4ada-4b34-900e-9e699a98cf08) | ![Modal](https://github.com/user-attachments/assets/6d7819ec-d5aa-4feb-ae33-6379aaab5f71) | ![Profile](https://github.com/user-attachments/assets/5cb6e698-8032-4311-b2ed-dc53da68ab05) |
 
----
 
 ## 🛠️ Tech Stack
 
@@ -114,23 +107,10 @@ You can easily:
 
 ---
 
-## 📄 License
-
-[MIT License](LICENSE) – Feel free to fork, clone, and build upon it!
-
----
-
-> *"Book smarter. Learn better. Empower your academic journey with EduBook."* ✨
-
-```
-
----
-
 Let me know if you’d like:
 - A deployment-ready version.
 - Favicon and custom icons.
 - A GitHub action for auto-deploying to GitHub Pages.
 - `.gitignore` or `LICENSE` file.
 
-Want me to auto-generate this into a downloadable `README.md` file?
-```
+
